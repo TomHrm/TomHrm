@@ -8,4 +8,4 @@ I'm studying computer science at a German university and work on open source pro
 
 💾 Operating Systems: Linux 🐧❤️, Windows, macOS, Android, iOS
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=irgendwr&count_private=true&show_icons=true)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=TomHrm&count_private=true&show_icons=true)
